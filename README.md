@@ -5,7 +5,10 @@ Include pagination, and search.
 
 ### start
 
-just clone and start with `npm start`. The port used is 3000, so made requests to `localhost:4000`
+```sh
+# to start api in localhost:4000
+npm start
+```
 
 ### /houses
 
